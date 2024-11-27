@@ -1,4 +1,4 @@
-- 👋 Hi, We're @Deakin-University-Computer-Society (DUCS)
+## 👋 Hi, We're @Deakin-University-Computer-Society (DUCS)
 - 👀 We are a deakin based club thats interested in all areas of tech!
 - 🌱 We currently are working on a few behind the scenes projects...
 - 💞️ We're looking for any deakin students to collaborate on projects which can help build your resume!
